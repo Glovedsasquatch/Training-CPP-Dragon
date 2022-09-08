@@ -1,0 +1,8 @@
+﻿  MoveSemanticsAndRelatedJazz.cpp
+Z:\Prabha_Shankar\Personal\Code_practice\GeneralCodingPractice\GeneralCodingPractice\MoveSemanticsAndRelatedJazz.h(18,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+Z:\Prabha_Shankar\Personal\Code_practice\GeneralCodingPractice\GeneralCodingPractice\MoveSemanticsAndRelatedJazz.h(27,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  main.cpp
+Z:\Prabha_Shankar\Personal\Code_practice\GeneralCodingPractice\GeneralCodingPractice\MoveSemanticsAndRelatedJazz.h(18,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+Z:\Prabha_Shankar\Personal\Code_practice\GeneralCodingPractice\GeneralCodingPractice\MoveSemanticsAndRelatedJazz.h(27,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  GeneralCodingPractice.vcxproj -> Z:\Prabha_Shankar\Personal\Code_practice\GeneralCodingPractice\x64\Debug\GeneralCodingPractice.exe
